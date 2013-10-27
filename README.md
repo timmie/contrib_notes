@@ -7,8 +7,8 @@ My own notes for contributions
 Pandas
 -------------------
 
-Excel-Fix PR discussions
-_______________________________________________
+==> Excel-Fix PR discussions
+
 
 * CLN: modified timmie PR 4631: https://github.com/jreback/pandas/commit/73fbd2162869ca9e240fed3efdb2afef9339b683#commitcomment-3921863
 * now sectionwise: date_converter: delta / time: https://github.com/pydata/pandas/pull/4632
